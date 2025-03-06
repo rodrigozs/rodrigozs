@@ -1,8 +1,8 @@
-Hi there! 👋
+# Hi there! 👋
 
 Welcome to my GitHub profile! I'm a passionate Software Engineer with a strong Python, SQL, and cloud-based architecture background. I specialize in building scalable and efficient software solutions, focusing on SaaS platforms, data engineering, and workflow automation.
 
-🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 - Languages: Python, SQL, JavaScript
 
 - Databases: MySQL, PostgreSQL
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a strong P
 
 - Other: Pandas, NumPy, FastAPI, Flask
 
-🏆 What I Work On
+## 🏆 What I Work On
 
 - 🚀 Building scalable SaaS solutions for universities
 
@@ -25,12 +25,12 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a strong P
 
 - 🎸 Jamming on my electric guitar and putting on solo concerts in my living room.
 
-💬 Ask me about
+## 💬 Ask me about
 
 - Mind-bending, nonsensical math theories
 - Anything about cars and Formula 1  
 
-📫 Let's Connect
+## 📫 Let's Connect
 
 - 🏢 [LinkedIn](https://www.linkedin.com/in/rodrigo-zapata-sandoval-48284b1ba)
 
