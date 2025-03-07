@@ -13,7 +13,7 @@
 - 🎯 Optimizing course enrollment systems
 - 🔍 Enhancing GitHub workflows for CI/CD efficiency
 - 🎸 Jamming on my electric guitar and performing solo concerts in my living room.
-- Basically involved in automating things, optimizing systems, or ensuring software doesn’t explode.
+- Basically involved in automating things, optimizing systems, and ensuring software doesn’t explode.
 
 ## 💬 Ask me about
 - Mind-bending, nonsensical math theories
