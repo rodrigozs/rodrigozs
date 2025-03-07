@@ -1,9 +1,9 @@
 # Hi there 🌝
 
 ## 🔧 Technologies & Tools
-- 🐍 Python | 💾 SQL | 🌐 JavaScript
+- 🐍 Python
 - 🛢 MySQL | 🏛 PostgreSQL
-- 🐳 Docker | ☁️ Kubernetes | 🚀 AWS (S3, Lambda, RDS) | ⚙️ ArgoCD
+- 🐳 Docker | 🚀 AWS (S3, Lambda, RDS) | ⚙️ ArgoCD
 - 🔄 GitHub Actions | 🛠 ACT
 - 📊 Pandas | 🧮 NumPy | ⚡ FastAPI | 🧪 Flask
 
