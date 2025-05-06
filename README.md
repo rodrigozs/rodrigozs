@@ -1,4 +1,4 @@
-# Welcome to mi perfil 🇨🇱👨🏻‍💻
+# Welcome to my perfil 🇨🇱👨🏻‍💻
 
 ## 🔧 Technologies & Tools
 - 🐍 Python
